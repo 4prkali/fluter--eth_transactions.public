@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "420623738874",
+    "firebase_url": "https://ethtransactionstfg-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ethtransactionstfg",
+    "storage_bucket": "ethtransactionstfg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420623738874:android:e5b83169e86ec1a047e643",
+        "android_client_info": {
+          "package_name": "com.example.eth_transactions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420623738874-oshpb8qd52v99k56c1s3vdm9tg6mtpo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1o756FSkxXpr9k74T-29YdVQk2FxvwbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420623738874-oshpb8qd52v99k56c1s3vdm9tg6mtpo2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420623738874-gvqdfq49oh9jdsootau6jbd9a12234pd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ethTransactions"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
